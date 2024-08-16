@@ -12,18 +12,19 @@ url:
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: 
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
+source-code: "https://github.com/CollectionBuilder/collectionbuilder-csv"
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
+
 title: ABVI Single Site
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: Digital Collection Magic with Static Web Technologies
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Test site to test out the CSV for a single site for the colllaboritive, multi-partner ABVI Mellon funded grant project lead by ISU."
+description: "Test site to test out the CSV for a single site for the colllaborative, multi-partner ABVI Mellon funded grant project lead by ISU."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: iowa;black voices;CLIR grant
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
@@ -51,9 +52,9 @@ metadata: abvi-single-site
 #   To remove the branding, comment out these values, or delete them. 
 #
 organization-name: "Amplifying Black Voices in Iowa CLIR/Mellon funded grant project, 2022-2025"
-organization-link: https://digital.lib.iastate.edu//
-organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+organization-link: "https://digital.lib.iastate.edu//"
+organization-logo-banner: "https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png"
+organization-logo-nav: "https://cdil.lib.uidaho.edu/assets/img/logo.png"
 
 ##########
 # ROBOTS EXCLUDE

@@ -19,9 +19,9 @@ source-code: "https://github.com/CollectionBuilder/collectionbuilder-csv"
 #
 # title of site appears in banner
 
-title: ABVI Single Site
+title: Amplifying Black Voices of Iowa
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
+tagline: An online portal to cultural heritage materials
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "'Amplifying Black Voices in Iowa' is a CLIR-supported grant project of digitized materials of Black communities in Iowa contributed by seven Iowa cultural heritage institutions."

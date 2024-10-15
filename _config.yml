@@ -21,7 +21,7 @@ source-code: "https://github.com/CollectionBuilder/collectionbuilder-csv"
 
 title: Amplifying Black Voices of Iowa
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: An online portal to cultural heritage materials
+tagline: An online portal to cultural heritage materials of seven Iowa organizations
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "'Amplifying Black Voices in Iowa' is a CLIR-supported grant project of digitized materials of Black communities in Iowa contributed by seven Iowa cultural heritage institutions."
@@ -51,7 +51,7 @@ metadata: abvi-single-site
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #   To remove the branding, comment out these values, or delete them. 
 #
-organization-name: "Provided through DSI, ISU Library"
+organization-name: "ABVI logo here"
 organization-link: "https://digital.lib.iastate.edu//"
 organization-logo-banner: ""
 organization-logo-nav: ""

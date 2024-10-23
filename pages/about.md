@@ -8,21 +8,21 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+{% include feature/jumbotron.html objectid="https://titanapi.minisisinc.com/api/links/492768c0ab2f4b059262034753227522/uuid/e1784fd5298647099ff78bdf2c2333cd/access" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
+{% include feature/nav-menu.html sections="About this exhibit;Black Churches;Biographies" %}
 
-## About CollectionBuilder CSV
+## About this exhibit
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam laoreet, orci vitae placerat vehicula, erat odio facilisis elit, sit amet varius ex est id nisl. Praesent nec maximus lectus. Aliquam erat volutpat. Maecenas hendrerit quam orci, at semper sapien efficitur quis. Nulla facilisi. Aliquam at nisl magna. Etiam ligula lacus, sollicitudin ut mi ac, posuere pulvinar massa. Curabitur aliquet vitae odio sit amet commodo. Proin porttitor euismod sapien, ac pharetra mi pharetra eu. Integer sagittis ut sapien sed efficitur. Mauris ornare iaculis lacus bibendum aliquam. Proin cursus porta metus, at suscipit tellus blandit eu. Nunc tellus neque, bibendum tempor nisl a, lobortis luctus justo. gital/), and is build Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam laoreet, orci vitae placerat vehicula, erat odio facilisis elit, sit amet varius ex est id nisl. Praesent nec maximus lectus. Aliquam erat volutpat. Maecenas hendrerit quam orci, at semper sapien efficitur quis. Nulla facilisi. Aliquam at nisl magna. Etiam ligula lacus, sollicitudin ut mi ac, posuere pulvinar massa. Curabitur aliquet vitae odio sit amet commodo. Proin porttitor euismod sapien, ac pharetra mi pharetra eu. Integer sagittis ut sapien sed efficitur. Mauris ornare iaculis lacus bibendum aliquam. Proin cursus porta metus, at suscipit tellus blandit eu. Nunc tellus neque, bibendum tempor nisl a, lobortis luctus justo....
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+
+ 
+ 
+ 
+ 
 
 [CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
 See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
